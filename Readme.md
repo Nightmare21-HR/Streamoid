@@ -24,7 +24,7 @@ Built with **Node.js**, **Express**, and **Knex.js**.
 
 1.  **Clone the repository** (replace with your actual URL):
     ```bash
-    git clone (https://github.com/Nightmare21-HR/Streamoid.git)
+    git clone [https://github.com/Nightmare21-HR/Streamoid.git](https://github.com/Nightmare21-HR/Streamoid.git)
     ```
 
 2.  **Navigate to the project folder**:
